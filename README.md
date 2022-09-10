@@ -1,6 +1,6 @@
 # dollar-cost-average
 
-Project to calculate your average buy and sell of your crypto asset.
+Project to calculate your average buy and sell price of your crypto asset.
 
 ## Install the dependencies
 ```bash
