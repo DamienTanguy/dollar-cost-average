@@ -1,0 +1,26 @@
+{
+  "name": "dollar-cost-average-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "api": "^4.0.0",
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "coinbase": "^2.0.8",
+    "coinbase-pro": "^0.9.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.2",
+    "express": "^4.17.1",
+    "node": "^17.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Damien TANGUY",
+  "license": "ISC"
+}
