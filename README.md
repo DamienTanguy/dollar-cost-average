@@ -26,4 +26,4 @@ npm run build
 the minify front will be stored in server/build-front
 ```
 
-Demo available here: https://dollar-cost-average.herokuapp.com/
+Demo available here: https://dollar-cost-average.herokuapp.com/ (Not working anymore - Heroku Free Service Ended)
